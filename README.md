@@ -1,8 +1,8 @@
-# Amazon-sales-project
+# Amazon Sale Report/Analysis
 Amazon is a global online marketplace that enables businesses and individuals to sell a wide variety of products directly to consumers through its e-commerce platform.
 ## Project Link
 
-[Amazon sales report](https://www.kaggle.com/code/naynishb/airbnb-project-1)
+[Amazon Sale Report/Analysis](https://www.kaggle.com/code/naynishb/airbnb-project-1)
 
 <img src="https://wallpapercat.com/w/full/2/6/5/1251328-2000x1200-desktop-hd-amazon-background-image.jpg" width=1000>
 
@@ -14,7 +14,7 @@ The dataset includes the following files:
 Contains detailed information about Amazon sales, including order dates, product categories, sales revenue, profit margins, customer segments, and regions.
 - reviews.csv
 Includes transaction records for Amazon orders, covering product details, purchase dates, quantities sold, and customer demographics.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+- Dataset Source : [Amazon Sale Report/Analysis](https://www.kaggle.com/code/dhananjaylaygude/amazon-sale-report-analysis)
 
 ## Insights :
 1.Maharashtra has the highest number of buyers
