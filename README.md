@@ -2,7 +2,7 @@
 Amazon is a global online marketplace that enables businesses and individuals to sell a wide variety of products directly to consumers through its e-commerce platform.
 ## Project Link
 
-[Amazon Sale Report/Analysis](https://www.kaggle.com/code/naynishb/airbnb-project-1)
+[Amazon Sale Report/Analysis](https://www.kaggle.com/code/dhananjaylaygude/amazon-sale-report-analysis)
 
 <img src="https://wallpapercat.com/w/full/2/6/5/1251328-2000x1200-desktop-hd-amazon-background-image.jpg" width=1000>
 
