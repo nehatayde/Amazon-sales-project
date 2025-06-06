@@ -25,7 +25,10 @@ Includes transaction records for Amazon orders, covering product details, purcha
 
 4.M-size is the most purchased size.
 
-5.Amazon handles the majority of order fulfillment. 6.Most orders are successflly shipped
+5.Amazon handles the majority of order fulfillment. 
+
+6.Most orders are successflly shipped
+
 ## Recommendation :
 1.Focus on High Revenue Categories: Identify product categories or sub-categories that consistently generate high revenue and invest more in inventory and marketing for those.
 
